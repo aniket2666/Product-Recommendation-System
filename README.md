@@ -6,7 +6,8 @@ product_descriptions.csv and
 attributes.csv 
 files are larger than 25MB
 So you need to download them from the link given below
-
+Link to attributes csv: https://www.dropbox.com/s/4a1lvsfswnrdyzy/attributes.csv?dl=0
+Link to product description csv: https://www.dropbox.com/s/cypgievz9s8v4p1/product_descriptions.csv?dl=0
 
 # Use the virtual env hd1 first
  Once in the folder of the repository:
